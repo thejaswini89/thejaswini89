@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Thejaswini Gangaiah
 - 👀 I’m interested in coding...
-- 🌱 I’m currently learning on UI and UX designing
+- 🌱 I’m currently learning on UI & UX Designing
 - 💞️ I’m looking to collaborate on web Dev projects
 
 
